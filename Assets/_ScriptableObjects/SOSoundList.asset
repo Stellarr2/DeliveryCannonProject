@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a038120a8322364b89b70550ddb6bf0, type: 3}
+  m_Name: SOSoundList
+  m_EditorClassIdentifier: 
+  cannonSound: {fileID: 8300000, guid: eb09f05ae59a19a489008522ccabb0fc, type: 3}
+  rocketSound: {fileID: 8300000, guid: c333f95d167f61c4483e0b33bfc00a8e, type: 3}
+  footstepSound: {fileID: 8300000, guid: 958d9aa672cf614428e0a584e30c0a4a, type: 3}
+  successSound: {fileID: 8300000, guid: f2e0e282678274f42bed53ceaabe4571, type: 3}
+  failSound: {fileID: 8300000, guid: 3560214b187ad454eb4e39dd73ec9b81, type: 3}
+  pickupSound: {fileID: 8300000, guid: c2862cd2633e00d4382fc8b1da900746, type: 3}
+  failPickupSound: {fileID: 8300000, guid: cedd8a15ff85bc240be5daf38012cb62, type: 3}
